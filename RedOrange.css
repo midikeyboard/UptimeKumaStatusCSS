@@ -1,0 +1,36 @@
+:root {
+  /* Primary Colour */
+  --color-one: #FF3333;
+  --color-one-hover: #E94A35;
+  
+  /* Border Colour*/
+  --color-two: #F40000;
+  --color-two-hover: #FF3333;
+}
+
+.btn-info {
+background-color: var(--color-one);
+border-color: var(--color-two);
+}
+.btn-info:hover {
+background-color: var(--color-one-hover);
+border-color: var(--color-two-hover);
+
+}
+
+  .btn-primary {
+  background-color: var(--color-one);
+  border-color: var(--color-two);
+  }
+  .hp-bar-big .beat[data-v-d2b93223] {
+  display: inline-block;
+  background-color: var(--color-one);
+}
+.overall-status .ok[data-v-cae9ad4b] {
+  color: var(--color-one);
+}
+
+.bg-primary {
+  background-color: var(--color-one) !important;
+  border-color: var(--color-two);
+}
