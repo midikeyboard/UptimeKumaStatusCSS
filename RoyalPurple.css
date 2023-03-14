@@ -37,10 +37,3 @@ height: 100%;
   background-color: var(--color-one) !important;
   border-color: var(--color-two);
 }
-
-body {
-background-image: radial-gradient(circle at center center, #2596be, rgba(17, 35, 74, 0.68)), repeating-radial-gradient(circle at center center, #2596be, #153c59, 32px, transparent 64px, transparent 32px);
-background-blend-mode: multiply;
-background-color: rgba(17, 35, 74, 0.68);
-background-repeat: no-repeat;
-}
