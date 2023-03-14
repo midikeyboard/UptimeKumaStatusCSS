@@ -1,0 +1,39 @@
+:root {
+  /* Primary Colour */
+  --color-one: #724da0; 
+  --color-one-hover: #6C4997;
+  
+  /* Border Colour*/
+  --color-two: #6C4997;
+  --color-two-hover: #724da0;
+}
+
+.btn-info {
+background-color: var(--color-one);
+border-color: var(--color-two);
+}
+.btn-info:hover {
+background-color: var(--color-one-hover);
+border-color: var(--color-two-hover);
+
+}
+
+:root {
+height: 100%;
+}
+  .btn-primary {
+  background-color: var(--color-one);
+  border-color: var(--color-two);
+  }
+  .hp-bar-big .beat[data-v-d2b93223] {
+  display: inline-block;
+  background-color: var(--color-one);
+}
+.overall-status .ok[data-v-cae9ad4b] {
+  color: var(--color-one);
+}
+
+.bg-primary {
+  background-color: var(--color-one) !important;
+  border-color: var(--color-two);
+}
