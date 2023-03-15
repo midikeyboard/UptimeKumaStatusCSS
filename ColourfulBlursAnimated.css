@@ -52,7 +52,6 @@ body {
 	flex-direction: column;
 	align-items: stretch;
 	justify-content: space-evenly;
-	overflow: hidden;
 	position: relative; 
 }
 
